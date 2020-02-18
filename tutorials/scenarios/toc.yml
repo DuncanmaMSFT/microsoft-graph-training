@@ -1,2 +1,3 @@
-- name: User profile
-  href: user-profile.md
+items:
+  - name: User profile
+    href: user-profile.md
