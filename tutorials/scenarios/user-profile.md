@@ -885,4 +885,4 @@ Now let's add the ability to update the user's profile information.
 Visit our tutorials page to find out how to add other Microsoft Graph features to this sample.
 
 > [!div class="nextstepaction"]
-> [Next steps button](tutorials.md)
+> [Go to tutorials](/graph/tutorials)
