@@ -31,7 +31,8 @@
           "tutorials/react-native/**",
           "tutorials/ruby/**",
           "tutorials/uwp/**",
-          "tutorials/xamarin/**"
+          "tutorials/xamarin/**",
+          "tutorials/scenarios/markdown/**"
         ]
       }
     ],
