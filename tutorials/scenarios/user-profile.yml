@@ -1,0 +1,43 @@
+### YamlMime:Tutorial
+title: Add user profile features to an ASP.NET MVC web app using Microsoft Graph
+metadata:
+  title: Add user profile features to an ASP.NET MVC web app using Microsoft Graph
+  description: This tutorial shows you how to add user profile features to an ASP.NET MVC web app using Microsoft Graph.
+  audience: Developer
+  level: Beginner
+  displayType: one-column
+  ms.date: 03/03/2020
+  author: jasonjoh
+  ms.author: jasonjoh
+  ms.topic: tutorial
+  ms.custom: scenarios:getting-started, languages:ASP.NET
+items:
+- durationInMinutes: 1
+  content: |
+    [!INCLUDE [](scenarios/markdown/user-profile/01-intro.md)]
+- title: Get and display the user's profile photo
+  durationInMinutes: 7
+  content: |
+    [!INCLUDE [](scenarios/markdown/user-profile/02-get-user-photo.md)]
+- title: Get and display the user's profile information
+  durationInMinutes: 3
+  content: |
+    [!INCLUDE [](scenarios/markdown/user-profile/03-get-user-profile.md)]
+- title: Get and display the user's mailbox settings
+  durationInMinutes: 15
+  content: |
+    [!INCLUDE [](scenarios/markdown/user-profile/04-get-mailbox-settings.md)]
+- title: Request additional permissions scopes after sign-in
+  durationInMinutes: 5
+  content: |
+    [!INCLUDE [](scenarios/markdown/user-profile/05-request-additional-scopes.md)]
+- title: Update the user's profile photo
+  durationInMinutes: 5
+  content: |
+    [!INCLUDE [](scenarios/markdown/user-profile/06-update-user-photo.md)]
+- title: Update the user's profile information
+  durationInMinutes: 5
+  content: |
+    [!INCLUDE [](scenarios/markdown/user-profile/07-update-user-profile.md)]
+- content: |
+    [!INCLUDE [](scenarios/markdown/user-profile/08-completed.md)]
