@@ -32,7 +32,9 @@
           "tutorials/ruby/**",
           "tutorials/uwp/**",
           "tutorials/xamarin/**",
-          "tutorials/scenarios/tutorials/**"
+          "tutorials/scenarios/tutorials/**",
+          "tutorials/scenarios/graph-tutorial/**",
+          "tutorials/scenarios/README.md"
         ]
       }
     ],
