@@ -14,30 +14,30 @@ metadata:
 items:
 - durationInMinutes: 1
   content: |
-    [!INCLUDE [](scenarios/tutorials/user-profile/01-intro.md)]
+    [!INCLUDE [](../scenarios/tutorials/user-profile/01-intro.md)]
 - title: Get and display the user's profile photo
   durationInMinutes: 7
   content: |
-    [!INCLUDE [](scenarios/tutorials/user-profile/02-get-user-photo.md)]
+    [!INCLUDE [](../scenarios/tutorials/user-profile/02-get-user-photo.md)]
 - title: Get and display the user's profile information
   durationInMinutes: 3
   content: |
-    [!INCLUDE [](scenarios/tutorials/user-profile/03-get-user-profile.md)]
+    [!INCLUDE [](../scenarios/tutorials/user-profile/03-get-user-profile.md)]
 - title: Get and display the user's mailbox settings
   durationInMinutes: 15
   content: |
-    [!INCLUDE [](scenarios/tutorials/user-profile/04-get-mailbox-settings.md)]
+    [!INCLUDE [](../scenarios/tutorials/user-profile/04-get-mailbox-settings.md)]
 - title: Request additional permissions scopes after sign-in
   durationInMinutes: 5
   content: |
-    [!INCLUDE [](scenarios/tutorials/user-profile/05-request-additional-scopes.md)]
+    [!INCLUDE [](../scenarios/tutorials/user-profile/05-request-additional-scopes.md)]
 - title: Update the user's profile photo
   durationInMinutes: 5
   content: |
-    [!INCLUDE [](scenarios/tutorials/user-profile/06-update-user-photo.md)]
+    [!INCLUDE [](../scenarios/tutorials/user-profile/06-update-user-photo.md)]
 - title: Update the user's profile information
   durationInMinutes: 5
   content: |
-    [!INCLUDE [](scenarios/tutorials/user-profile/07-update-user-profile.md)]
+    [!INCLUDE [](../scenarios/tutorials/user-profile/07-update-user-profile.md)]
 - content: |
-    [!INCLUDE [](scenarios/tutorials/user-profile/08-completed.md)]
+    [!INCLUDE [](../scenarios/tutorials/user-profile/08-completed.md)]
